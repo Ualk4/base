@@ -1,6 +1,6 @@
-# MIT meres1
+# MIT meres1 Flow excercises
 
-Made by Klaudia Eszter Bakonyi and Virag Baski
+Made by Klaudia Eszter Bakonyi and Virag Baski 
 
 # Train Speed Controller
 
